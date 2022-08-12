@@ -1,0 +1,3 @@
+MovieFix.Droid.MainActivity, MovieFix.Droid;crc64ba74b44e136ec56d.MainActivity
+MovieFix.Droid.MainActivity;crc64ba74b44e136ec56d.MainActivity
+moviefix.droid.MainActivity;crc64ba74b44e136ec56d.MainActivity
